@@ -232,6 +232,7 @@ int main(void)
 	irq_setmask(0);
 	irq_setie(1);
 	uart_init();
+	timer_init_irq(1000);
 
 	puts("\nSoC - RiscV project UNAL 2020-2-- CPU testing software built "__DATE__" "__TIME__"\n");
 	help();
