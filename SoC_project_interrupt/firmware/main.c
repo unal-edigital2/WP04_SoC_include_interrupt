@@ -175,6 +175,7 @@ static void rgbled_test(void)
 			ledRGB_1_r_width_write(100-i);
 			ledRGB_1_b_width_write(i);	
 			delay_ms(20);
+
 		}	
 	}
 	
