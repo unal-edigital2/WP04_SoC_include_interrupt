@@ -1,7 +1,7 @@
-# # Interrupts
+## Interrupts
 
 
-RECUERDE: las interrupciones son señales generadas por los periféricos con comunicación directa al procesador, y no están conectadas por medio del bus Wishbone. Las interrupciones son eventos generados por periféricos que requieres atención inmediata del del procesador
+RECUERDE: las interrupciones son señales generadas por los periféricos con comunicación directa al procesador, y no están conectadas por medio del bus Wishbone. Las interrupciones son eventos generados por periféricos que requieres atención inmediata del procesador
 
 
 ## Configuración en hardware
